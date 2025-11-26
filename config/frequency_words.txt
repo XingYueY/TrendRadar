@@ -9,8 +9,11 @@ DeepSeek
 HarmonyOS
 任正非
 
-比亚迪
-王传福
+劳动
+社保
+讨薪
+
+暗网
 
 大疆
 DJI
@@ -23,22 +26,7 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
 申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
 
 特斯拉
 马斯克
@@ -64,10 +52,11 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+新技术
+新功能
+!汽车
+
+地震
 
 ai
 !gai
